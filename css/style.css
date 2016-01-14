@@ -1,0 +1,157 @@
+.col-3{
+	background-color:#564848;	
+}
+.col-9{
+	background-color:#564848;
+
+}
+.menu{
+	list-style:none;
+
+}
+.menu li{
+	color:white;
+	display: inline-block;
+	font-size:15px;
+	font-family:sans-serif;
+	padding:5% 1% 6% 2%;
+}
+#logotipo{
+	width:100px;
+	height:89px;
+	padding:5%;
+}
+.imagenes{
+	list-style:none;
+    padding:50px;
+    padding-top:30px;
+    padding-bottom:30px;
+}
+#primera img{
+	width:164px;
+	height:180px;
+	margin-right:20px;
+	margin-left:20px;
+	padding:3px;
+	border:grey solid 1px;
+
+}
+#segunda img{
+	width:164px;
+	height:180px;
+	margin-right:20px;
+	margin-left:20px;
+	padding:3px;
+	border:grey solid 1px;
+}
+#tercera img{
+    width:164px;
+    height:180px;
+    margin-right:20px;
+    margin-left:20px;
+    padding:3px;
+    border:grey solid 1px;
+}
+#cuarta img{
+    width:164px;
+    height:180px; 
+    margin-right:20px;
+    margin-left:20px;
+    padding:3px;
+    border:grey solid 1px;
+}
+.imagenes li{
+	display:inline-block;
+}
+h2{
+	padding:10px;
+	font-size:20px;
+    border-bottom:grey solid 1px;
+   }
+ h1{
+ 	font-size:25px;
+ 	padding:10px;
+ }
+
+.album{
+	width:119px;
+	height:160px;
+	display:inline-block;
+	padding:10px;
+
+}
+.una{
+	height:100px;
+	width:100px;
+	padding:3px;
+	border:grey solid 1px;
+}
+p{
+	text-align:center;
+	color:#4682B4;
+}
+#dos{
+	position:relative;
+	top:18px;
+
+}
+.tres{
+	height:100px;
+	width:100px;
+	position:relative;
+    top:18px;
+	padding:3px;
+    border:grey solid 1px;
+}
+a{
+	color:#369;
+	text-decoration:none;
+}
+.final{
+background-color:#564848;
+height:180px;
+width:100%;
+}
+
+h4{
+	padding:20px;
+	color:white;
+}
+h5{
+	color:grey;
+	text-align:center;
+	padding-top:25px;
+}
+.rojo{
+	width:20px;
+}
+ul{
+list-style:none;
+}
+.barra{
+	padding:7px;
+
+}
+
+.letras{
+	padding:20px 10px;
+	border-top:grey solid 1px;
+}
+.ultimo{
+	color:white;
+	text-decoration:none;
+	padding:7px;
+}
+.col-12{
+	background-color:#E6E6FA;
+	border-bottom:solid grey 1px;
+}
+.fin{
+	background-color:#564848;
+}
+
+
+
+
+
+
